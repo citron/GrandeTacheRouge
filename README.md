@@ -5,3 +5,6 @@ Projets composés pour les classes préparatoires BCPST2 du Lycée Louis Thuilli
 
 ## Reconnaissance faciale simple
 Ou comment différencier les visages avec des couleurs.
+
+## Quakes
+Ou comment dire plein de bétises en scruttant les données de l'USGS
